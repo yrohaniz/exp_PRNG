@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="untitled"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/exp_PRNG/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/exp_PRNG/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/exp_PRNG/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/exp_PRNG/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/exp_PRNG/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/exp_PRNG/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/exp_PRNG/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/exp_PRNG/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/exp_PRNG/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/exp_PRNG/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/exp_PRNG/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/exp_PRNG/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="exp_PRNG">
+				<Option output="/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/cmake-build-debug/exp_PRNG" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/exp_PRNG/cmake-build-debug/Makefile&quot;  VERBOSE=1 exp_PRNG"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/exp_PRNG/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/exp_PRNG/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/exp_PRNG/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="exp_PRNG/fast">
+				<Option output="/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/cmake-build-debug/exp_PRNG" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/5"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/5"/>
+					<Add directory="/usr/include/c++/5/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/exp_PRNG/cmake-build-debug/Makefile&quot;  VERBOSE=1 exp_PRNG/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/exp_PRNG/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/exp_PRNG/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/yrohanizadegan/Desktop/SDE\ project/exp_PRNG/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/PRNG_uniform.c">
+			<Option target="exp_PRNG"/>
+		</Unit>
+		<Unit filename="/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/exp_dist_generator.c">
+			<Option target="exp_PRNG"/>
+		</Unit>
+		<Unit filename="/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/exprng.h">
+			<Option target="exp_PRNG"/>
+		</Unit>
+		<Unit filename="/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/histogram_generator.c">
+			<Option target="exp_PRNG"/>
+		</Unit>
+		<Unit filename="/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/main.c">
+			<Option target="exp_PRNG"/>
+		</Unit>
+		<Unit filename="/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/sample_mean_calc.c">
+			<Option target="exp_PRNG"/>
+		</Unit>
+		<Unit filename="/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/sample_variance_calc.c">
+			<Option target="exp_PRNG"/>
+		</Unit>
+		<Unit filename="/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/sort_compare.c">
+			<Option target="exp_PRNG"/>
+		</Unit>
+		<Unit filename="/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

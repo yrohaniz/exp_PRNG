@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/PRNG_uniform.c
+stdlib.h
+-
+stdio.h
+-
+exprng.h
+/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/exprng.h
+
+/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/exp_dist_generator.c
+math.h
+-
+exprng.h
+/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/exprng.h
+
+/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/exprng.h
+
+/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/histogram_generator.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+exprng.h
+/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/exprng.h
+
+/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/main.c
+stdio.h
+-
+exprng.h
+/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/exprng.h
+math.h
+-
+stdlib.h
+-
+
+/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/sample_mean_calc.c
+exprng.h
+/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/exprng.h
+
+/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/sample_variance_calc.c
+exprng.h
+/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/exprng.h
+
+/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/sort_compare.c
+exprng.h
+/home/yrohanizadegan/Desktop/SDE project/exp_PRNG/exprng.h
+

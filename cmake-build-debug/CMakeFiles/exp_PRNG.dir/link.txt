@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/exp_PRNG.dir/main.c.o CMakeFiles/exp_PRNG.dir/exp_dist_generator.c.o CMakeFiles/exp_PRNG.dir/PRNG_uniform.c.o CMakeFiles/exp_PRNG.dir/sample_mean_calc.c.o CMakeFiles/exp_PRNG.dir/sample_variance_calc.c.o CMakeFiles/exp_PRNG.dir/histogram_generator.c.o CMakeFiles/exp_PRNG.dir/sort_compare.c.o  -o exp_PRNG -lm 
